@@ -39,11 +39,16 @@ To run the code, install the required dependencies:
 
 ### Running the Analysis
 
-To preprocess data and compare annotations:
+We used **Python (Jupyter Notebook) and SPSS** for data analysis. The following steps outline how to reproduce the analysis:
 
-```bash
-...
-```
+#### Python (Jupyter Notebook)
+- Navigate to the `agreeemnt/` directory and open the relevant Jupyter notebook.
+- Run the cells sequentially to perform data preprocessing, annotation comparisons, and statistical analysis.
+
+#### SPSS
+-  Navigate to the `reliability-and-comparability/` directory and open the `.sav` dataset in SPSS.
+- Use the provided syntax files or manually set up statistical tests as described in the paper.
+
 
 ## Citation
 
