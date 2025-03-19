@@ -34,7 +34,7 @@ The dataset used in this study is available on **OSF**: [Dataset Link](https://o
 To run the code, install the required dependencies:
 
 ```bash
-...
+pip install -r requirements.txt
 ```
 
 ### Running the Analysis
