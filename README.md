@@ -26,6 +26,8 @@ The dataset used in this study is available on **OSF**: [Dataset Link](https://o
 ## Repository Structure
 
 - `data/` - Preprocessed and raw datasets used in the study.
+- `agreement/` - Analysis related to **RQ1 (inter-rater reliability and consistency)** and **RQ2 (temporal consistency of LLMs)**.
+- `reliability-and-comparability/` - Analysis related to **RQ3 (quality comparison of LLM and human annotations)** and **RQ4 (comparability across different LLM models)**.
 
 ## How to Use
 
